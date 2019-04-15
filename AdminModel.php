@@ -15,4 +15,9 @@ class AdminModel
     {
         return view('admin.index');
     }
+
+    protected function someMethod()
+    {
+        // code
+    }
 }
