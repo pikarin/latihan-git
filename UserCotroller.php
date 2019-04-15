@@ -9,4 +9,9 @@ class UserController extends Controller
     {
         # code...
     }
+
+    public function index()
+    {
+        # code...
+    }
 }
