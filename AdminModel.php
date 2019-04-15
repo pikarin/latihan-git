@@ -2,5 +2,13 @@
 
 class AdminModel
 {
-    // code
+    public function __constructor()
+    {
+        // Code
+    }
+
+    public function edit()
+    {
+        return view('admin.edit');
+    }
 }
